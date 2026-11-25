@@ -259,4 +259,5 @@ Margin 1.0 memberi keputusan bahkan saat Gx dan Gy hampir sama kekuatannya (tida
 > [!TIP]
 > Sebelum presentasi, jalankan `python run_pipeline.py` sekali lagi dan pastikan semua output di `outputs/` sesuai dengan tabel yang kamu siapkan.
 #   R e a d - S t r i p e - D i r e c t i o n - p r o j e c t 7  
+ #   R e a d - S t r i p e - D i r e c t i o n - p r o j e c t 7  
  
