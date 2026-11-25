@@ -1,0 +1,13 @@
+{
+  "shared_ksize": 3,
+  "stage_a_to_c_mean_abs_gx": {
+    "swatch_1.png": 132.277975,
+    "swatch_2.png": 22.974525,
+    "swatch_3.png": 27.854225
+  },
+  "stage_b_to_c_mean_abs_gy": {
+    "swatch_1.png": 23.500875,
+    "swatch_2.png": 120.829125,
+    "swatch_3.png": 16.481875
+  }
+}
